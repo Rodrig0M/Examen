@@ -1,0 +1,50 @@
+*{
+    font-family:'Times New Roman', Times, serif
+}
+body{
+    background-color:#E8E8E8;
+}
+img{
+    width: 40%;
+    height:20%;
+    display: block;
+    margin:auto;
+    border-radius:5%;
+}
+p{
+    text-align:;
+    background-color:#FFE7F6;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin:auto;
+    font-size:20px;
+    border-radius: 2%;
+}
+li{
+    margin-left: 10%;
+    font-size: 130%;
+    margin-bottom: 1%;
+}
+h1{
+    text-align:center;
+    margin-top: 5%;
+    color: #F3576A;
+}
+h2{
+    margin-left:7%;
+    color:#A868C3;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    margin-top: 4%;
+    text-align: center;
+    display: block;
+    background: white;
+}
+#nombre{
+    color:#7D74EA;
+    font-family:'Courier New', Courier, monospace;
+    text-shadow: black 10px 14px 4px;
+}

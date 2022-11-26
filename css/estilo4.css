@@ -1,0 +1,52 @@
+*{
+    font-family:'Times New Roman', Times, serif
+}
+body{
+    background-image:url(../imagenes/fondos/agua.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+img{
+    width: 40%;
+    height:20%;
+    display: block;
+    margin:auto;
+    border-radius:5%;
+}
+p{
+    color:#555857;
+    background-color:#DFFAF3;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin:auto;
+    font-size:20px;
+    border-radius: 2%;
+}
+li{
+    margin-left: 10%;
+    font-size: 130%;
+    margin-bottom: 1%;
+    color:#E8E83A;
+}
+h1{
+    text-align:center;
+    margin-top: 5%;
+    color: white;
+}
+h2{
+    margin-left:7%;
+    color:#3CEC15;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    margin-top: 4%;
+    text-align: center;
+    display: block;
+}
+#nombre{
+    color:white;
+    font-family:cursive;
+    text-shadow: black 10px 14px 4px;
+}
